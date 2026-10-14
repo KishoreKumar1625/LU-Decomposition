@@ -9,7 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 
-### 5a
+### 5A
 
 ### Step1: 
 Import the required numpy and scipy
@@ -19,6 +19,19 @@ Bring lu from scipy.linalg to handle the actual matrix decomposition
 Call the lu(A) function.This splits the target matrix into three seperate output matrices P,L AND U
 ### Step4:
 End the program
+
+### 5B
+
+### Step1:
+Import numpy for multi-dimensional array operations
+### Step2:
+Bring lu from scipy.linalg to handle the actual matrix decomposition
+### Step3:
+Pass the factorized components (lu, p) along with the right-hand-side matrix to the lu_solve() function to compute the solution matrix x.
+### Step3:
+End the program
+
+
 
 ## Program:
 (i) To find the L and U matrix
