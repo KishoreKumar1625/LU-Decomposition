@@ -28,7 +28,7 @@ Import numpy for multi-dimensional array operations
 Bring lu from scipy.linalg to handle the actual matrix decomposition
 ### Step3:
 Pass the factorized components (lu, p) along with the right-hand-side matrix to the lu_solve() function to compute the solution matrix x.
-### Step3:
+### Step4:
 End the program
 
 
