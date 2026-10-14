@@ -74,6 +74,15 @@ print(x)
 
 ## Output:
 ![lu decomposition]()
+### 5A INPUT
+<img width="1453" height="890" alt="Screenshot 2026-10-14 090939" src="https://github.com/user-attachments/assets/d0ef506a-2415-4ba1-a697-f9a3eb11863e" />
+### 5A OUTPUT
+<img width="1439" height="555" alt="Screenshot 2026-10-14 090956" src="https://github.com/user-attachments/assets/f4c9e7ab-d901-4610-a5b8-49dce55d4dc4" />
+### 5B INPUT
+<img width="1269" height="862" alt="Screenshot 2026-10-14 091013" src="https://github.com/user-attachments/assets/291f0482-43b6-4f6b-8442-a3db9ec49013" />
+### 5B OUTPUT
+<img width="1411" height="256" alt="Screenshot 2026-10-14 091025" src="https://github.com/user-attachments/assets/f4e5a544-f8ea-4ba0-80bd-3102b63c6c3b" />
+
 
 
 ## Result:
