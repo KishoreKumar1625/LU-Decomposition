@@ -15,9 +15,10 @@ To write a program to find the LU Decomposition of a matrix.
 Import the required numpy and scipy
 ### Step2: 
 Bring lu from scipy.linalg to handle the actual matrix decomposition
-3. 
-4. 
-5. 
+### Step3:
+Call the lu(A) function.This splits the target matrix into three seperate output matrices P,L AND U
+### Step4:
+End the program
 
 ## Program:
 (i) To find the L and U matrix
